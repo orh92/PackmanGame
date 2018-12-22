@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Geom.Point3D" project="PackmanGame" file="/PackmanGame/src/Geom/Point3D.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="927" width="234" x="2710" y="2405"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Map.Map" project="PackmanGame" file="/PackmanGame/src/Map/Map.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="387" width="170" x="2771" y="1178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Packman.PackmanGameJunitTest" project="PackmanGame" 
+    file="/PackmanGame/src/Packman/PackmanGameJunitTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="163" x="111" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Geom.MyCoords" project="PackmanGame" file="/PackmanGame/src/Geom/MyCoords.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="259" x="314" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Packman.Main" project="PackmanGame" file="/PackmanGame/src/Packman/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="131" x="613" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="GameObjects.Fruit" project="PackmanGame" 
+    file="/PackmanGame/src/GameObjects/Fruit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="227" x="2462" y="1605"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Game.MoveManager" project="PackmanGame" 
+    file="/PackmanGame/src/Game/MoveManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="159" x="2033" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="GUI.MyFrame" project="PackmanGame" file="/PackmanGame/src/GUI/MyFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="230" x="2337" y="288"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="Game" project="PackmanGame" file="/PackmanGame/src/Game" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="784" y="23"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="10" language="java" name="Game.Game" project="PackmanGame" file="/PackmanGame/src/Game/Game.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="230" x="2337" y="913"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="GameObjects.GameObjects" project="PackmanGame" 
+    file="/PackmanGame/src/GameObjects/GameObjects.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="271" x="2337" y="1178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="12" language="java" name="Geom" project="PackmanGame" file="/PackmanGame/src/Geom" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="925" y="23"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="13" language="java" name="Path.Path" project="PackmanGame" file="/PackmanGame/src/Path/Path.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="194" x="2123" y="2158"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="14" language="java" name="Map" project="PackmanGame" file="/PackmanGame/src/Map" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1066" y="23"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="15" language="java" name="Map.Csvload" project="PackmanGame" file="/PackmanGame/src/Map/Csvload.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="203" x="2094" y="288"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Path.Path2KML" project="PackmanGame" file="/PackmanGame/src/Path/Path2KML.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="222" x="1207" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="17" language="java" name="Geom.coords_converter" project="PackmanGame" 
+    file="/PackmanGame/src/Geom/coords_converter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="259" x="314" y="288"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <package id="18" language="java" name="Path" project="PackmanGame" file="/PackmanGame/src/Path" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1469" y="23"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="19" language="java" name="GameObjects" project="PackmanGame" file="/PackmanGame/src/GameObjects" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1610" y="23"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="20" language="java" name="Geom.Geom_element" project="PackmanGame" 
+    file="/PackmanGame/src/Geom/Geom_element.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="159" x="2710" y="3372"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="Map.Csvsave" project="PackmanGame" file="/PackmanGame/src/Map/Csvsave.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="140" x="2157" y="913"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Path.ShortestPathAlgo" project="PackmanGame" 
+    file="/PackmanGame/src/Path/ShortestPathAlgo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="271" x="2628" y="913"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="GameObjects.Packman" project="PackmanGame" 
+    file="/PackmanGame/src/GameObjects/Packman.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="284" x="2033" y="1605"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="Game.PackmanMove" project="PackmanGame" 
+    file="/PackmanGame/src/Game/PackmanMove.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="193" x="2920" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="25" language="java" name="GUI" project="PackmanGame" file="/PackmanGame/src/GUI" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1751" y="23"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="26" language="java" name="Packman" project="PackmanGame" file="/PackmanGame/src/Packman" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1892" y="23"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <association id="27">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="28" name="gameArray"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="31" name="algo"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="2950" y="288"/>    
+    <bendpoint x="2950" y="913"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="34" name="map"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <bendpoint x="2971" y="288"/>    
+    <bendpoint x="2971" y="913"/>    
+    <bendpoint x="2971" y="1178"/>    
+    <bendpoint x="2971" y="1605"/>    
+    <bendpoint x="2971" y="2158"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="37" name="currentPoint"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="40" name="pointArray"/>      
+      <multiplicity id="41" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <bendpoint x="2659" y="1178"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="43" name="fruitArray"/>      
+      <multiplicity id="44" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="46" name="gameObjects"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="49">    
+    <bendpoint x="2719" y="1178"/>    
+    <bendpoint x="2719" y="1605"/>    
+    <bendpoint x="2719" y="2158"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="50" name="packmanPoint"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="53" name="gameArray"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <bendpoint x="2597" y="288"/>    
+    <bendpoint x="2597" y="913"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="56" name="gameOb"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <bendpoint x="2306" y="1178"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="59" name="fruit"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="61">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="62">    
+    <bendpoint x="2929" y="288"/>    
+    <bendpoint x="2929" y="913"/>    
+    <bendpoint x="2740" y="1178"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="63" name="fruit"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="66" name="myframe"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="69" name="object"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <bendpoint x="2638" y="1178"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="72" name="packArray"/>      
+      <multiplicity id="73" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="75" name="path"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <bendpoint x="2063" y="288"/>    
+    <bendpoint x="2063" y="913"/>    
+    <bendpoint x="2063" y="1178"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="78" name="pack"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="80">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <association id="81">    
+    <bendpoint x="2042" y="288"/>    
+    <bendpoint x="2042" y="913"/>    
+    <bendpoint x="2042" y="1178"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="82" name="pack"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="85">    
+    <bendpoint x="2595" y="2158"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="86" name="Fruit"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <bendpoint x="2992" y="288"/>    
+    <bendpoint x="2992" y="913"/>    
+    <bendpoint x="2992" y="1178"/>    
+    <bendpoint x="2992" y="1605"/>    
+    <bendpoint x="2992" y="2158"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="89" name="fruitPoint"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="92" name="game"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="95" name="map"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <bendpoint x="2285" y="1178"/>    
+    <bendpoint x="2347" y="1605"/>    
+    <bendpoint x="2347" y="2158"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="98" name="point"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <bendpoint x="2104" y="1178"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="101" name="packman"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <bendpoint x="2021" y="288"/>    
+    <bendpoint x="2021" y="913"/>    
+    <bendpoint x="2021" y="1178"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="104" name="packArray"/>      
+      <multiplicity id="105" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="107" name="myframe"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
