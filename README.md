@@ -7,10 +7,12 @@ In the item "options" you can add packman's and fruits  as much as you want and 
 
 ![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/1.bmp)
 
+
 For starting the game press on "Run" in the same item.
 
 In the item "Start game from a file" you can upload a CSV file (as much as you want) to get preset locations:
 ![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/2.bmp)
+
 An example of how a CSV file should look:
 ![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/3.bmp)
 
