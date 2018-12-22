@@ -77,7 +77,10 @@ A package of geometry that includes points, lines, paths, circles, squares, etc.
 
  - GUI:
  
- *MyFrame- This class uses a GUI, produces a window, a menu, uploads the images of the Pacman, fruit and map. In addition, the class implements a MouseListener and ComponentListener with which you can use the mouse and create as many Pacman and Fruit as you want and redesigned the pictures if we increased or reduced the window.
+ *MyFrame- This class uses a GUI, produces a window, a menu, uploads the images of the Pacman, fruit and map. In addition, the class implements a MouseListener and ComponentListener with which you can use the mouse and create as many Pacman and Fruit as you want and redesigned the pictures if we increased or reduced the window. 
+ Also contains the paths to the picture of the map,fruit and packman. So make sure you writing the correct path.
+ 
+ That's it! Have fun :)
  
  
 #  Author: Guy Ankri & Or Hadar
