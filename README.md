@@ -3,32 +3,22 @@ This is a packman game! You can play it on a JFrame and on a google earth!
 So how it works? 
 Run the game, and by the menu bar you can start.
 Choose the way that you want to play.
-In the item "options" you can add packman's and fruits  as much as you want and also restart  as it looks in the picture:
+In the item "options" you can add packman's and fruits  as much as you want and also restart as it looks in the picture:
 
 ![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/1.bmp)
-
-
-
-
-
-
-
-
-
-
 
 For starting the game press on "Run" in the same item.
 
 In the item "Start game from a file" you can upload a CSV file (as much as you want) to get preset locations:
-
+![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/2.bmp)
 An example of how a CSV file should look:
-
+![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/3.bmp)
 
 And you can also mix your packman's and fruits with a CSV files.
 Also, you can save your information as a CSV file and / or as a KML file in order to see the path in Google Earth in the same item!
 
 How the game look like:
-
+![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/4.bmp)
 
 As soon as the Run button is pressed, the Packmans will move toward the fruit, and each Pacman will run to the nearest fruit and eat it. The goal of all the Packmen is to finish all the fruits that are on the map.
 
