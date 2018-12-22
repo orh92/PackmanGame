@@ -5,6 +5,18 @@ Run the game, and by the menu bar you can start.
 Choose the way that you want to play.
 In the item "options" you can add packman's and fruits  as much as you want and also restart  as it looks in the picture:
 
+![github-small](https://raw.githubusercontent.com/orh92/PackmanGame/master/1.bmp)
+
+
+
+
+
+
+
+
+
+
+
 For starting the game press on "Run" in the same item.
 
 In the item "Start game from a file" you can upload a CSV file (as much as you want) to get preset locations:
